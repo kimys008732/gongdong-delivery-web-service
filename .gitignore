@@ -1,0 +1,15 @@
+# IntelliJ/IDE 설정
+.idea/
+*.iml
+
+# 빌드 산출물
+/target/
+*.class
+
+# OS별
+.DS_Store
+
+# 환경 설정 파일
+.env
+*.env
+*.p12
